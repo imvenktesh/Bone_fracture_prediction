@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays
+
+This dataset comprises of fractured and non-fractured x-ray images of several joints. The task is to build an image classifier to detect fractures in given x-ray image.
+This dataset comprises of different joints in the upper extremities, isolation of individual joints is recommended for enhanced performance of classifiers.
